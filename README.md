@@ -1,1 +1,1 @@
-# webpackp5
+# webpackbasics
